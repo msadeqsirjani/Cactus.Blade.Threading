@@ -1,0 +1,9 @@
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\bin\Debug\netstandard2.1\Cactus.Blade.Threading.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\bin\Debug\netstandard2.1\Cactus.Blade.Threading.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\bin\Debug\netstandard2.1\Cactus.Blade.Threading.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\obj\Debug\netstandard2.1\Threading.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\obj\Debug\netstandard2.1\Threading.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\obj\Debug\netstandard2.1\Threading.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\obj\Debug\netstandard2.1\Cactus.Blade.Threading.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\obj\Debug\netstandard2.1\Cactus.Blade.Threading.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\obj\Debug\netstandard2.1\Threading.csprojAssemblyReference.cache

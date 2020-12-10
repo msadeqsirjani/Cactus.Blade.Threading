@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Threading</id>
+    <version>1.2.0</version>
+    <authors>Mohammad Sadeq Sirjani</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>cactus.png</icon>
+    <projectUrl>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Threading</projectUrl>
+    <description>Various classes related to Threading.</description>
+    <releaseNotes>Various classes related to Threading.</releaseNotes>
+    <copyright>@Copyright 2020</copyright>
+    <repository url="https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Threading" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Threading\bin\Debug\netstandard2.1\Threading.dll" target="lib\netstandard2.1\Threading.dll" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\Image\cactus.png" target="cactus.png" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Threading\Cactus.Blade.Threading\LICENSE" target="LICENSE" />
+  </files>
+</package>
